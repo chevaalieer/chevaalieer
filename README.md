@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá, sou Danilo Chevalier, um entusiasta da tecnologia apaixonado por explorar o mundo dos dados, programação em Python e desenvolvimento web com HTML e JavaScript.
+Olá, sou Danilo Chevalier, um entusiasta da tecnologia apaixonado por explorar o mundo dos dados, programação em Python/SQL e desenvolvimento web com HTML e JavaScript.
 
 ## O que faço 🔭
 
